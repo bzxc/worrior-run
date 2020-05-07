@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file alias="Start-button">0cb8ae9dba7361b6479abe4650668c56.jpg</file>
+        <file alias="Star">0940cf82e3e92875dc2f80e4bd7f89f4.jpeg</file>
+        <file alias="background">2017e97de55fca7e87cfa1bfa47d5bdb.jpg</file>
+        <file alias="chess-step">chessone.wav</file>
+        <file alias="chess-win">win.wav</file>
+        <file alias="chess-lose">lose.wav</file>
+        <file alias="open-screen2">v2-b8e4ad0ff9aa0874665750665a9978d2_hd.gif</file>
+        <file alias="open-screen">yeziyang.png</file>
+        <file alias="black-ches">yeziyang3.png</file>
+        <file alias="white-chess">yeziyang2.png</file>
+        <file alias="exit-">yeziyang1(1).png</file>
+        <file alias="back-ground">54f176d969401b200e91d6cd.jpg</file>
+        <file alias="black-chess">yeziyang1.png</file>
+        <file alias="walls">5ab31275e7bce72567569e08.jpg</file>
+    </qresource>
+</RCC>
